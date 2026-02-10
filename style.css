@@ -1,0 +1,19 @@
+body {
+  background-image: url("./93eadfe6-061f-4dd7-8d35-56a2f26f1833.jpg");
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  margin: 0;
+  font-family: sans-serif;
+  color: white;
+}
+
+.overlay-text {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 48px;
+  font-weight: bold;
+  text-shadow: 2px 2px 10px rgba(0,0,0,0.7);
+}
